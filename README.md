@@ -23,7 +23,11 @@ pnpm install
 
 ```shell
 npm start
+// or
+pnpm start
 ```
+
+默认端口 3000，访问`localhost:3000`返回 JSON 即可。
 
 ## 参考
 
